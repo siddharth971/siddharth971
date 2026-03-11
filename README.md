@@ -89,9 +89,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharth971&locale=en&hide_title=false&layout=compact&card_width=320&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=siddharth971&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddharth971&radius=16&theme=nightowl&area=true&order=5&hide_border=false&hide_title=false" height="100" alt="activity-graph graph"  />
+  <img  style="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharth971&locale=en&hide_title=false&layout=compact&card_width=320&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img  style="100%" src="https://streak-stats.demolab.com?user=siddharth971&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img  style="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=siddharth971&radius=16&theme=nightowl&area=true&order=5&hide_border=false&hide_title=false" height="100" alt="activity-graph graph"  />
 </div>
 
 ###
