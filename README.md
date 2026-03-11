@@ -13,14 +13,6 @@
 <br clear="both">
 
 <div align="center">
-  <img height="200" src="https://avatars.githubusercontent.com/u/39427933?v=4"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="35" alt="javascript logo"  />
   <img width="10" />
   <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="35" alt="angularjs logo"  />
@@ -88,18 +80,18 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharth971&locale=en&hide_title=false&layout=compact&card_width=320&theme=aura&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=siddharth971&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddharth971&radius=16&theme=nightowl&area=true&order=5&hide_border=false&hide_title=false" height="100" alt="activity-graph graph"  />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siddharth971/siddharth971/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siddharth971/siddharth971/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/siddharth971/siddharth971/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/siddharth971/siddharth971/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharth971&locale=en&hide_title=false&layout=default%20&card_width=320&theme=radical&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=siddharth971&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddharth971&radius=16&theme=nightowl&area=true&order=5&hide_border=false&hide_title=false" height="100" alt="activity-graph graph"  />
+</div>
 
 ###
