@@ -89,9 +89,7 @@
 ###
 
 <div align="center">
-  <img  style="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharth971&locale=en&hide_title=false&layout=compact&card_width=320&theme=dark&hide_border=false&order=2"  alt="languages graph" /> <br>
-  <img  style="50%" src="https://streak-stats.demolab.com?user=siddharth971&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3"  alt="streak graph" /> <br>
+  <img  style="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddharth971&locale=en&hide_title=false&layout=compact&card_width=320&theme=dark&hide_border=false&order=2"  alt="languages graph" />
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=tokyonight&fontFamily=Edu%20QLD%20Beginner&preferLogin=true">    <img  alt="siddharth971's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/siddharth971?cardType=github&theme=tokyonight&fontFamily=Edu%20QLD%20Beginner&preferLogin=true" />  </a>
 
 </div>
-
-###
