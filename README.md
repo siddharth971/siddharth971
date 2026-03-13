@@ -140,6 +140,76 @@ const developer = {
 
 ---
 
+## 📅 &nbsp;Contribution Calendar
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2500&pause=800&color=a855f7&center=true&vCenter=true&repeat=true&width=650&height=30&lines=📡+Scanning+contribution+grid...;🟩+303+commits+and+counting;🌌+Every+green+square+is+a+universe+built;⚡+Consistently+shipping+since+day+one" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddharth971&theme=monokai" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=siddharth971&theme=monokai" />
+  &nbsp;
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=siddharth971&theme=monokai" />
+  &nbsp;
+  <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=siddharth971&theme=monokai&utcOffset=5.5" />
+</div>
+
+<br/>
+
+<!-- 🐍 Snake Animation — requires GitHub Action setup (see below) -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siddharth971/siddharth971/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siddharth971/siddharth971/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/siddharth971/siddharth971/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+
+![Commits](https://img.shields.io/badge/Total%20Contributions-303-a855f7?style=for-the-badge&logo=github&logoColor=white&labelColor=02000e)&nbsp;
+![PRs](https://img.shields.io/badge/Pull%20Requests-60-ff4ecd?style=for-the-badge&logo=git&logoColor=white&labelColor=02000e)&nbsp;
+![Issues](https://img.shields.io/badge/Issues%20Closed-8-ffb700?style=for-the-badge&logo=github&logoColor=white&labelColor=02000e)&nbsp;
+![Repos](https://img.shields.io/badge/Repositories-22-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=02000e)
+
+</div>
+
+> **🐍 To enable the Snake animation**, create `.github/workflows/snake.yml` in your repo:
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule: [{ cron: "0 0 * * *" }]
+>   workflow_dispatch:
+> jobs:
+>   generate:
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: Platane/snk/svg-only@v3
+>         with:
+>           github_user_name: siddharth971
+>           outputs: |
+>             dist/github-contribution-grid-snake.svg
+>             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+>       - uses: crazy-max/ghaction-github-pages@v3
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+> ```
+
+---
+
 ## 🕹️ &nbsp;Pac-Man Contribution Map
 
 <div align="center">
