@@ -75,13 +75,7 @@ const developer = {
   <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharth971&layout=donut&theme=midnight-purple&hide_border=true&bg_color=02000e&title_color=a855f7&text_color=c4b5fd&langs_count=7&custom_title=Languages" />
 </div>
 
----
 
-## 🏆 &nbsp;Achievements
-
-<div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=siddharth971&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
-</div>
 
 ---
 
@@ -130,13 +124,7 @@ const developer = {
 
 </div>
 
----
 
-## 🌠 &nbsp;Contribution Nebula
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=siddharth971&bg_color=02000e&color=a855f7&line=7c3aed&point=ff4ecd&area=true&area_color=3b0764&hide_border=true&custom_title=Siddharth%27s%20Contribution%20Nebula&title_color=a855f7" />
-</div>
 
 ---
 
@@ -164,16 +152,7 @@ const developer = {
 
 <br/>
 
-<!-- 🐍 Snake Animation — requires GitHub Action setup (see below) -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siddharth971/siddharth971/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siddharth971/siddharth971/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/siddharth971/siddharth971/output/github-contribution-grid-snake-dark.svg" width="100%" />
-  </picture>
-</div>
 
-<br/>
 
 <div align="center">
 
