@@ -1,6 +1,3 @@
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/siddharth971/siddharth971/main/output/dots.svg" width="100%" />
 
 
 <div align="center">
@@ -200,4 +197,4 @@ const developer = {
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:ff4ecd,25:a855f7,50:7c3aed,75:3b0764,90:0d0030,100:02000e&section=footer&animation=fadeIn&reversal=true" />
 </div>
-</div>
+
